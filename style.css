@@ -43,6 +43,7 @@ body {
 .right-container {
   padding-top: 22.5rem;
   width: 40%;
+  margin: 0;
 }
 
 .intro-text {
